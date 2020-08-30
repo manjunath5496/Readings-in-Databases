@@ -1,10 +1,10 @@
 <p>A&nbsp;<strong>database</strong>&nbsp;is an organized collection of&nbsp;<a title="Data (computing)" href="https://en.wikipedia.org/wiki/Data_(computing)">data</a>, generally stored and accessed electronically from a computer system. Where databases are more complex they are often developed using formal&nbsp;<a href="#Design_and_modeling">design and modeling</a>&nbsp;techniques.</p>
 <p>The&nbsp;<a href="#Database_management_system">database management system</a>&nbsp;(DBMS) is the&nbsp;<a title="Software" href="https://en.wikipedia.org/wiki/Software">software</a>&nbsp;that interacts with&nbsp;<a title="End user" href="https://en.wikipedia.org/wiki/End_user">end users</a>, applications, and the database itself to capture and analyze the data. The DBMS software additionally encompasses the core facilities provided to administer the database. The sum total of the database, the DBMS and the associated applications can be referred to as a "database system". Often the term "database" is also used to loosely refer to any of the DBMS, the database system or an application associated with the database.</p>
 <p>Computer scientists may classify database-management systems according to the&nbsp;<a title="Database model" href="_model">database models</a>&nbsp;that they support.&nbsp;<a title="Relational database" href="https://en.wikipedia.org/wiki/Relational_database">Relational databases</a>&nbsp;became dominant in the 1980s. These model data as&nbsp;<a title="Row (database)" href="https://en.wikipedia.org/wiki/Row_(database)">rows</a>&nbsp;and&nbsp;<a title="Column (database)" href="https://en.wikipedia.org/wiki/Column_(database)">columns</a>&nbsp;in a series of&nbsp;<a title="Table (database)" href="https://en.wikipedia.org/wiki/Table_(database)">tables</a>, and the vast majority use&nbsp;<a title="SQL" href="https://en.wikipedia.org/wiki/SQL">SQL</a>&nbsp;for writing and querying data. In the 2000s, non-relational databases became popular, referred to as&nbsp;<a title="NoSQL" href="https://en.wikipedia.org/wiki/NoSQL">NoSQL</a>&nbsp;because they use different&nbsp;<a title="Query language" href="https://en.wikipedia.org/wiki/Query_language">query languages</a>.</p>
-<div id="toc" class="toc"><br />
-<div class="toctitle" dir="ltr" lang="en">
+</br>
+
 <h2 id="mw-toc-heading">Contents</h2>
-<label class="toctogglelabel" for="toctogglecheckbox"></label></div>
+
 <ul>
 <li class="toclevel-1 tocsection-1"><a href="#Terminology_and_overview"><span class="toctext">Terminology and overview</span></a></li>
 <li class="toclevel-1 tocsection-2"><a href="#History"><span class="toctext">History</span></a>
@@ -50,8 +50,8 @@
 <li class="toclevel-1 tocsection-30"><span class="toctext"><a href="#Research">Research</a></span></li>
 <li class="toclevel-1 tocsection-31"><span class="toctext"><a href="#Readings">Readings in Databases</a></span></li>
 </ul>
-</div>
-<h2>&nbsp;</h2>
+</br>
+
 <h2><span id="Terminology_and_overview" class="mw-headline">Terminology and overview</span></h2>
 <p>Formally, a "database" refers to a set of related data and the way it is organized. Access to this data is usually provided by a "database management system" (DBMS) consisting of an integrated set of computer software that allows&nbsp;<a title="User (computing)" href="https://en.wikipedia.org/wiki/User_(computing)">users</a>&nbsp;to interact with one or more databases and provides access to all of the data contained in the database (although restrictions may exist that limit access to particular data). The DBMS provides various functions that allow entry, storage and retrieval of large quantities of information and provides ways to manage how that information is organized.</p>
 <p>Because of the close relationship between them, the term "database" is often used casually to refer to both a database and the DBMS used to manipulate it.</p>
